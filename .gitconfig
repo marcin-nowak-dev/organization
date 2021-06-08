@@ -1,0 +1,14 @@
+[user]
+	name = Marcin Nowak
+	email = marcin.na.przystanku@gmail.com
+[pull]
+	rebase = true
+[core]
+	filemode = false
+	autocrlf = false
+	ignorecase = true
+	longpaths = true
+[push]
+	default = simple
+[credential]
+	helper = manager-core

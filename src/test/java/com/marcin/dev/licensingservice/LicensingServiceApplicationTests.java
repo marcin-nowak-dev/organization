@@ -1,4 +1,4 @@
-package com.organization.licensingservice;
+package com.marcin.dev.licensingservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

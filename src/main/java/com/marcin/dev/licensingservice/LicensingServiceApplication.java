@@ -1,4 +1,4 @@
-package com.organization.licensingservice;
+package com.marcin.dev.licensingservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
